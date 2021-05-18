@@ -60,3 +60,7 @@ body {
     margin-right: 2vmin;
     font-size: 4vmin;
 }
+
+#one-beer {
+    transform: rotate(90deg);
+}
